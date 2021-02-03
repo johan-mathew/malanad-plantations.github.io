@@ -151,7 +151,7 @@ html:not([data-scroll='0']) .hamburger-icon svg path{
     position: relative;
     height: 75vh;
     width: 100%;
-    background: url('assets/header-2.png');
+    background: url('../assets/header-2.png');
     background-size: cover;
 }
 .active{
@@ -389,7 +389,7 @@ html:not([data-scroll='0']) .active{
     display: block;
     height:500px;
     width:100%;
-    background:url('assets/map.png');
+    background:url('../assets/map.png');
     background-position: center;
 }
 .swiper-container {

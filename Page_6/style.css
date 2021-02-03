@@ -312,7 +312,7 @@
     display: block;
     height:500px;
     width:100%;
-    background:url('assets/map.png');
+    background:url('../assets/map.png');
     background-position: center;
 }
 
